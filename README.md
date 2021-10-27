@@ -6,7 +6,7 @@
 
 Install with cargo:
 ```
-cargo install --git github.com:oltoko/hashpw.git
+cargo install --git https://github.com/oltoko/hashpw.git
 ```
 
 ## Usage
