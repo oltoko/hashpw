@@ -1,11 +1,11 @@
 [package]
 name = "hashpw"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Oliver Koch"]
 description = "hashpw is a simple CLI Tool to hash the entered passwords"
 readme = "README.md"
 license-file = "LICENSE"
-edition = "2018"
+edition = "2021"
 
 [dependencies]
 scrypt = "0.8.0"
